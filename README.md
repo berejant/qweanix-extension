@@ -1,29 +1,13 @@
-# Chrome Extension TypeScript Starter
+# QweaniX chrome extension
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
-
-Chrome Extension, TypeScript and Visual Studio Code
+## Authors
+ - [Pavlo Shcherbyna](https://www.linkedin.com/in/pavlo-shcherbyna/)
+ - [Maksym Zemlianyi](https://www.linkedin.com/in/zemliany/)
+ - [Anton Berezhnyi](https://www.linkedin.com/in/berajant/)
 
 ## Prerequisites
 
 * [node + npm](https://nodejs.org/) (Current Version)
-
-## Option
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-## Includes the following
-
-* TypeScript
-* Webpack
-* React
-* Jest
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
 
 ## Project Structure
 
@@ -38,10 +22,6 @@ Chrome Extension, TypeScript and Visual Studio Code
 npm install
 ```
 
-## Import as Visual Studio Code project
-
-...
-
 ## Build
 
 ```
@@ -55,12 +35,6 @@ npm run build
 ```
 npm run watch
 ```
-
-### Visual Studio Code
-
-Run watch mode.
-
-type `Ctrl + Shift + B`
 
 ## Load extension to chrome
 

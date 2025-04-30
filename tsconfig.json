@@ -11,5 +11,9 @@
         "noEmitOnError": true,
         "jsx": "react",
         "typeRoots": [ "node_modules/@types" ]
-    }
+    },
+    "include": [
+        "src/**/*",
+        "mustache.d.ts"  // Include the declaration file
+    ]
 }

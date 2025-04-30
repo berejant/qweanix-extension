@@ -1,0 +1,19 @@
+.qweanix-block {
+    border-radius: 8px;
+    padding: 10px 18px 5px 18px;
+    border: 1px #d5d9d9 solid;
+    margin-bottom: 20px;
+    background: #f2ffcf;
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+.qweanix-title {
+    color: #9f7906;
+}
+
+
+.qweanix-btn {
+    background: white;
+    border-radius: 8px;
+}
