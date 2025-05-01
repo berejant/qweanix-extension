@@ -1,9 +1,9 @@
 # QweaniX chrome extension
 
 ## Authors
- - [Pavlo Shcherbyna](https://www.linkedin.com/in/pavlo-shcherbyna/)
- - [Maksym Zemlianyi](https://www.linkedin.com/in/zemliany/)
- - [Anton Berezhnyi](https://www.linkedin.com/in/berajant/)
+ - [Pavlo Shcherbyna](https://github.com/shcherbynapavlo)
+ - [Maksym Zemlianyi](https://github.com/zemliany)
+ - [Anton Berezhnyi]( https://github.com/berajant/)
 
 ## Prerequisites
 
