@@ -38,6 +38,7 @@
             "https://www.amazon.se/*",
             "https://www.amazon.pl/*"
           ],
+          "run_at": "document_start",
           "js": ["js/vendor.js", "js/content_script.js"],
           "css": [
             "css/content_script.css"
